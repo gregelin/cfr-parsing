@@ -1,0 +1,811 @@
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > General > 0.1 - The Commission.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > General > 0.3 - The Chairman.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > General > 0.5 - General description of Commission organization and operations.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Office of Managing Director > 0.11 - Functions of the Office.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Office of Inspector General > 0.13 - Functions of the Office.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Office of Media Relations > 0.15 - Functions of the Office.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Office of Legislative Affairs > 0.17 - Functions of the Office.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Office of Strategic Planning and Policy Analysis > 0.21 - Functions of the Office.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Office of Engineering and Technology > 0.31 - Functions of the Office.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Office of General Counsel > 0.41 - Functions of the Office.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > International Bureau > 0.51 - Functions of the Bureau
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Media Bureau > 0.61 - Functions of the Bureau.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Office of Workplace Diversity > 0.81 - Functions of the Office.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Wireline Competition Bureau > 0.91 - Functions of the Bureau.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Office of Communications Business Opportunities > 0.101 - Functions of the office.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Enforcement Bureau > 0.111 - Functions of the Bureau.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Enforcement Bureau > 0.121 - Location of field installations.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Wireless Telecommunications Bureau > 0.131 - Functions of the Bureau.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Consumer and Governmental Affairs Bureau > 0.141 - Functions of the Bureau.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Office of Administrative Law Judges > 0.151 - Functions of the Office.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Homeland Security, Defense and Emergency Preparedness Functions > 0.181 - The Defense Commissioner.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Homeland Security, Defense and Emergency Preparedness Functions > 0.185 - Responsibilities of the bureaus and staff offices.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Homeland Security, Defense and Emergency Preparedness Functions > 0.186 - Emergency Relocation Board.
+PART 0—COMMISSION ORGANIZATION > Subpart A—Organization > Public Safety and Homeland Security Bureau > 0.191 - Functions of the Bureau.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > General > 0.201 - General provisions.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > General > 0.203 - Authority of person, panel, or board to which functions are delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > General > 0.204 - The exercise of delegated authority.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Commissioners > 0.211 - Chairman.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Commissioners > 0.212 - Board of Commissioners.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Commissioners > 0.218 - Authority of, and delegated to, an individual Commissioner or Commissioners.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Managing Director > 0.231 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief Engineer > 0.241 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief Engineer > 0.247 - Record of actions taken.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > General Counsel > 0.251 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > International Bureau > 0.261 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > International Bureau > 0.262 - Record of actions taken.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Office of Strategic Planning and Policy Analysis > 0.271 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief, Media Bureau > 0.283 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief, Media Bureau > 0.284 - Actions taken under delegated authority.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief, Media Bureau > 0.285 - Record of actions taken.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief, Wireline Competition Bureau > 0.291 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief, Wireline Competition Bureau > 0.301 - [Reserved]
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief, Wireline Competition Bureau > 0.302 - Record of actions taken.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief, Wireline Competition Bureau > 0.303 - [Reserved]
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief, Wireline Competition Bureau > 0.304 - Authority for determinations of exempt telecommunications company status.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Enforcement Bureau > 0.311 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Enforcement Bureau > 0.314 - Additional authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Enforcement Bureau > 0.317 - Record of action taken.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Wireless Telecommunications Bureau > 0.331 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Wireless Telecommunications Bureau > 0.332 - Actions taken under delegated authority.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Wireless Telecommunications Bureau > 0.333-0.337 - [Reserved]
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Administrative Law Judges > 0.341 - Authority of administrative law judge.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Administrative Law Judges > 0.347 - Record of actions taken.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief Administrative Law Judge > 0.351 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Chief Administrative Law Judge > 0.357 - Record of actions taken.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Consumer and Governmental Affairs Bureau > 0.361 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Office of Communications Business Opportunities > 0.371 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > National Security and Emergency Preparedness Delegations > 0.381 - Defense Commissioner.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > National Security and Emergency Preparedness Delegations > 0.383 - Emergency Relocation Board, authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > National Security and Emergency Preparedness Delegations > 0.387 - Other national security and emergency preparedness delegations; cross reference.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Office of Workplace Diversity > 0.391 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart B—Delegations of Authority > Public Safety and Homeland Security Bureau > 0.392 - Authority delegated.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > General > 0.401 - Location of Commission offices.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > General > 0.403 - Office hours.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > General > 0.405 - Statutory provisions.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > General > 0.406 - The rules and regulations.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > General > 0.408 - OMB control numbers and expiration dates assigned pursuant to the Paperwork Reduction Act of 1995.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > General > 0.409 - Commission policy on private printing of FCC forms.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Printed Publications > 0.411 - General reference materials.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Printed Publications > 0.413 - The Commission's printed publications.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Printed Publications > 0.414 - The Communications Act and other statutory materials.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Printed Publications > 0.415 - The rules and regulations (looseleaf service).
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Printed Publications > 0.416 - The Federal Communications Commission Record.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Printed Publications > 0.417 - The Annual Reports.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Printed Publications > 0.420 - Other Commission publications.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Forms and Documents Available Upon Request > 0.421 - Application forms.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Forms and Documents Available Upon Request > 0.422 - Current action documents and public notices.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Forms and Documents Available Upon Request > 0.423 - Information bulletins.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Lists Containing Information Compiled by the Commission > 0.431 - The FCC service frequency lists.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Lists Containing Information Compiled by the Commission > 0.434 - Data bases and lists of authorized broadcast stations and pending broadcast applications.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.441 - General.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.442 - Disclosure to other Federal government agencies of information submitted to the Commission in confidence.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.445 - Publication, availability and use of opinions, orders, policy statements, interpretations, administrative manuals, and staff instructions.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.451 - Inspection of records: Generally.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.453 - Public reference rooms.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.455 - Other locations at which records may be inspected.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.457 - Records not routinely available for public inspection.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.458 - Nonpublic information.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.459 - Requests that materials or information submitted to the Commission be withheld from public inspection.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.460 - Requests for inspection of records which are routinely available for public inspection.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.461 - Requests for inspection of materials not routinely available for public inspection.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.463 - Demand by competent authority for the production of documents or testimony concerning information contained therein.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.465 - Request for copies of materials which are available, or made available, for public inspection.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.466 - Definitions.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.467 - Search and review fees.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.468 - Interest.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.469 - Advance payments.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Public Information and Inspection of Records > 0.470 - Assessment of fees.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.471 - Miscellaneous submittals or requests.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.473 - Reports of violations.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.475 - Applications for employment.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.481 - Place of filing applications for radio authorizations.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.482 - Application for waiver of wireless radio service rules.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.483 - Applications for amateur or commercial radio operator licenses.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.484 - Amateur radio operator examinations.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.485 - Commercial radio operator examinations.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.489 - Applications for ship radio inspection and periodical survey.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.491 - Application for exemption from compulsory ship radio requirements.
+PART 0—COMMISSION ORGANIZATION > Subpart C—General Information > Places for Making Submittals or Requests, for Filing Applications, and for Taking Examinations > 0.493 - Non-radio common carrier applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.1 - Proceedings before the Commission.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.2 - Declaratory rulings.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.3 - Suspension, amendment, or waiver of rules.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.4 - Computation of time.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.5 - Mailing address furnished by licensee.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.6 - Availability of station logs and records for Commission inspection.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.7 - Documents are filed upon receipt.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.8 - Withdrawal of papers.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.10 - Transcript of testimony; copies of documents submitted.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.12 - Notice to attorneys of Commission documents.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.13 - Filing of petitions for review and notices of appeals of Commission orders.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.14 - Citation of Commission documents.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.16 - Unsworn declarations under penalty of perjury in lieu of affidavits.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.17 - Truthful and accurate statements to the Commission.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.18 - Administrative Dispute Resolution.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General > 1.19 - Use of metric units required.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Parties, Practitioners, and Witnesses > 1.21 - Parties.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Parties, Practitioners, and Witnesses > 1.22 - Authority for representation.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Parties, Practitioners, and Witnesses > 1.23 - Persons who may be admitted to practice.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Parties, Practitioners, and Witnesses > 1.24 - Censure, suspension, or disbarment of attorneys.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Parties, Practitioners, and Witnesses > 1.25 - [Reserved]
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Parties, Practitioners, and Witnesses > 1.26 - Appearances.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Parties, Practitioners, and Witnesses > 1.27 - Witnesses; right to counsel.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Parties, Practitioners, and Witnesses > 1.28-1.29 - [Reserved]
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.41 - Informal requests for Commission action.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.42 - Applications, reports, complaints; cross-reference.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.43 - Requests for stay; cross-reference.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.44 - Separate pleadings for different requests.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.45 - Pleadings; filing periods.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.46 - Motions for extension of time.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.47 - Service of documents and proof of service.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.48 - Length of pleadings.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.49 - Specifications as to pleadings and documents.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.50 - Specifications as to briefs.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Pleadings, Briefs, and Other Papers > 1.51 - Number of copies of pleadings, briefs and other papers.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Forbearance Proceedings > 1.52 - Subscription and verification.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Forbearance Proceedings > 1.53 - Separate pleadings for petitions for forbearance.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Forbearance Proceedings > 1.54 - Petitions for forbearance must be complete as filed.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Forbearance Proceedings > 1.55 - Public notice of petitions for forbearance.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Forbearance Proceedings > 1.56 - Motions for summary denial of petitions for forbearance.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Forbearance Proceedings > 1.57 - Circulation and voting of petitions for forbearance.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Forbearance Proceedings > 1.58 - Forbearance petition quiet period prohibition.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Forbearance Proceedings > 1.59 - Withdrawal or narrowing of petitions for forbearance.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General Application Procedures > 1.61 - Procedures for handling applications requiring special aeronautical study.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General Application Procedures > 1.62 - Operation pending action on renewal application.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General Application Procedures > 1.65 - Substantial and significant changes in information furnished by applicants to the Commission.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General Application Procedures > 1.68 - Action on application for license to cover construction permit.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > General Application Procedures > 1.77 - Detailed application procedures; cross references.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.80 - Forfeiture proceedings.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.83 - Applications for radio operator licenses.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.85 - Suspension of operator licenses.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.87 - Modification of license or construction permit on motion of the Commission.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.88 - Predesignation pleading procedure.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.89 - Notice of violations.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.91 - Revocation and/or cease and desist proceedings; hearings.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.92 - Revocation and/or cease and desist proceedings; after waiver of hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.93 - Consent orders.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.94 - Consent order procedures.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Miscellaneous Proceedings > 1.95 - Violation of consent orders.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.101 - General provisions.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.102 - Effective dates of actions taken pursuant to delegated authority.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.103 - Effective dates of Commission actions; finality of Commission actions.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.104 - Preserving the right of review; deferred consideration of application for review.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.106 - Petitions for reconsideration.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.108 - Reconsideration on Commission's own motion.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.110 - Partial grants; rejection and designation for hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.113 - Action modified or set aside by person, panel, or board.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.115 - Application for review of action taken pursuant to delegated authority.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.117 - Review on motion of the Commission.
+PART 1—PRACTICE AND PROCEDURE > Subpart A—General Rules of Practice and Procedure > Reconsideration and Review of Actions Taken by the Commission and Pursuant to Delegated Authority; Effective Dates and Finality Dates of Actions > 1.120 - Protests of grants without hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > General > 1.201 - Scope.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > General > 1.202 - Official reporter; transcript.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > General > 1.203 - The record.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > General > 1.204 - Pleadings; definition.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > General > 1.205 - Continuances and extensions.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > General > 1.207 - Interlocutory matters, reconsideration and review; cross references.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > General > 1.209 - Identification of responsible officer in caption to pleading.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > General > 1.211 - Service.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Participants and Issues > 1.221 - Notice of hearing; appearances.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Participants and Issues > 1.223 - Petitions to intervene.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Participants and Issues > 1.224 - Motion to proceed in forma pauperis.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Participants and Issues > 1.225 - Participation by non-parties; consideration of communications.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Participants and Issues > 1.227 - Consolidations.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Participants and Issues > 1.229 - Motions to enlarge, change, or delete issues.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Presiding Officer > 1.241 - Designation of presiding officer.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Presiding Officer > 1.243 - Authority of presiding officer.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Presiding Officer > 1.244 - Designation of a settlement judge.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Presiding Officer > 1.245 - Disqualification of presiding officer.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Prehearing Procedures > 1.246 - Admission of facts and genuineness of documents.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Prehearing Procedures > 1.248 - Prehearing conferences; hearing conferences.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Prehearing Procedures > 1.249 - Prehearing statement.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.250 - Discovery and preservation of evidence; cross-reference.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.251 - Summary decision.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.253 - Time and place of hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.254 - Nature of the hearing; burden of proof.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.255 - Order of procedure.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.258 - Closing of the hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.260 - Certification of transcript.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.261 - Corrections to transcript.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.263 - Proposed findings and conclusions.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.264 - Contents of findings of fact and conclusions.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Hearing and Intermediate Decision > 1.267 - Initial and recommended decisions.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Review Proceedings > 1.271 - Delegation of review function.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Review Proceedings > 1.273 - Waiver of initial or recommended decision.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Review Proceedings > 1.274 - Certification of the record to the Commission for initial or final decision.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Review Proceedings > 1.276 - Appeal and review of initial decision.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Review Proceedings > 1.277 - Exceptions; oral arguments.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Review Proceedings > 1.279 - Limitation of matters to be reviewed.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Review Proceedings > 1.282 - Final decision of the Commission.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Interlocutory Actions in Hearing Proceedings > 1.291 - General provisions.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Interlocutory Actions in Hearing Proceedings > 1.294 - Oppositions and replies.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Interlocutory Actions in Hearing Proceedings > 1.296 - Service.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Interlocutory Actions in Hearing Proceedings > 1.297 - Oral argument.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Interlocutory Actions in Hearing Proceedings > 1.298 - Rulings; time for action.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Appeal and Reconsideration of Presiding Officer's Ruling > 1.301 - Appeal from presiding officer's interlocutory ruling; effective date of ruling.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Appeal and Reconsideration of Presiding Officer's Ruling > 1.302 - Appeal from presiding officer's final ruling; effective date of ruling.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > The Discovery and Preservation of Evidence > 1.311 - General.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > The Discovery and Preservation of Evidence > 1.313 - Protective orders.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > The Discovery and Preservation of Evidence > 1.315 - Depositions upon oral examination—notice and preliminary procedure.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > The Discovery and Preservation of Evidence > 1.316 - Depositions upon written interrogatories—notice and preliminary procedure.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > The Discovery and Preservation of Evidence > 1.318 - The taking of depositions.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > The Discovery and Preservation of Evidence > 1.319 - Objections to the taking of depositions.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > The Discovery and Preservation of Evidence > 1.321 - Use of depositions at the hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > The Discovery and Preservation of Evidence > 1.323 - Interrogatories to parties.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > The Discovery and Preservation of Evidence > 1.325 - Discovery and production of documents and things for inspection, copying, or photographing.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Subpenas > 1.331 - Who may sign and issue.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Subpenas > 1.333 - Requests for issuance of subpena.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Subpenas > 1.334 - Motions to quash.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Subpenas > 1.335 - Rulings.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Subpenas > 1.336 - Service of subpenas.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Subpenas > 1.337 - Return of service.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Subpenas > 1.338 - Subpena forms.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Subpenas > 1.339 - Witness fees.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Subpenas > 1.340 - Attendance of witness; disobedience.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.351 - Rules of evidence.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.352 - Cumulative evidence.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.353 - Further evidence during hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.354 - Documents containing matter not material.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.355 - Documents in foreign language.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.356 - Copies of exhibits.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.357 - Mechanical reproductions as evidence.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.358 - Tariffs as evidence.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.359 - Proof of official record; authentication of copy.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.360 - Proof of lack of record.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.361 - Other proof of official record.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.362 - Production of statements.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.363 - Introduction of statistical data.
+PART 1—PRACTICE AND PROCEDURE > Subpart B—Hearing Proceedings > Evidence > 1.364 - Testimony by speakerphone.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > General > 1.399 - Scope.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > General > 1.400 - Definitions.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Petitions and Related Pleadings > 1.401 - Petitions for rulemaking.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Petitions and Related Pleadings > 1.403 - Notice and availability.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Petitions and Related Pleadings > 1.405 - Responses to petitions; replies.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Petitions and Related Pleadings > 1.407 - Action on petitions.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.411 - Commencement of rulemaking proceedings.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.412 - Notice of proposed rulemaking.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.413 - Content of notice.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.415 - Comments and replies.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.419 - Form of comments and replies; number of copies.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.420 - Additional procedures in proceedings for amendment of the FM or TV Tables of Allotments, or for amendment of certain FM assignments.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.421 - Further notice of rulemaking.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.423 - Oral argument and other proceedings.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.425 - Commission action.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.427 - Effective date of rules.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Rulemaking Proceedings > 1.429 - Petition for reconsideration.
+PART 1—PRACTICE AND PROCEDURE > Subpart C—Rulemaking Proceedings > Inquiries > 1.430 - Proceedings on a notice of inquiry.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.511 - Applications required.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.512 - Where to file; number of copies.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.513 - Who may sign applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.514 - Content of applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.516 - Specification of facilities.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.517 - Contingent applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.518 - Inconsistent or conflicting applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.519 - Repetitious applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.520 - Multiple applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.522 - Amendment of applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.525 - Agreements between parties for amendment or dismissal of, or failure to prosecute, broadcast applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.526 - Records to be maintained locally for public inspection by commercial applicants, permittees and licensees.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.527 - Records to be maintained locally for public inspection by noncommercial educational applicants, permittees and licensees.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.531 - Formal and informal applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.533 - Application forms for authority to construct a new station or make changes in an existing station.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.534 - Application for extension of construction permit or for construction permit to replace expired construction permit.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.536 - Application for license to cover construction permit.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.538 - Application for modification of license.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.539 - Application for renewal of license.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.540 - Application for voluntary assignment or transfer of control.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.541 - Application for involuntary assignment of license or transfer of control.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.542 - Application for temporary authorization.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.543 - Application for renewal or modification of special service authorization.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.544 - Application for broadcast station to conduct field strength measurements and for experimental operation.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.545 - Application for permit to deliver programs to foreign countries.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.546 - Application to determine operating power by direct measurement of antenna power.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.549 - Requests for extension of authority to operate without required monitors, indicating instruments, and EBS Attention Signal devices.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.550 - Requests for new or modified call sign assignments.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.561 - Staff consideration of applications which receive action by the Commission.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.562 - Staff consideration of applications which do not require action by the Commission.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.564 - Acceptance of applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.566 - Defective applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.568 - Dismissal of applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.570 - AM broadcast station applications involving other North American countries.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.571 - Processing AM broadcast station applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.572 - Processing TV broadcast and translator station applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.573 - Processing FM broadcast and translator station applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.574 - Processing of international broadcast station applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.578 - Amendments to applications for renewal, assignment or transfer of control.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.580 - Local public notice of filing of broadcast applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.584 - Petitions to deny.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.587 - Procedure for filing informal applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.591 - Grants without hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.592 - Conditional grant.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.593 - Designation for hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.594 - Local public notice of designation for hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.597 - Procedures on transfer and assignment applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.598 - Period of construction.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.599 - Forfeiture of construction permit.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.601 - Simultaneous modification and renewal of license.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.603 - Special waiver procedure relative to applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.605 - Retention of applications in hearing status after designation for hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.612 - Annual employment report.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.613 - Filing of contracts.
+PART 1—PRACTICE AND PROCEDURE > Subpart D—Broadcast Applications and Proceedings > General Filing Requirements > 1.615 - Ownership reports.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > General > 1.701 - Show cause orders.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > General > 1.703 - Appearances.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Complaints > 1.711 - Formal or informal complaints.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > informal complaints > 1.716 - Form.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > informal complaints > 1.717 - Procedure.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > informal complaints > 1.718 - Unsatisfied informal complaints; formal complaints relating back to the filing dates of informal complaints.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > informal complaints > 1.719 - Informal complaints filed pursuant to section 258.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.720 - General pleading requirements.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.721 - Format and content of complaints.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.722 - Damages.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.723 - Joinder of complainants and causes of action.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.724 - Answers.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.725 - Cross-complaints and counterclaims.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.726 - Replies.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.727 - Motions.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.728 - Formal complaints not stating a cause of action; defective pleadings.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.729 - Discovery.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.730 - The Enforcement Bureau's Accelerated Docket.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.731 - Confidentiality of information produced or exchanged by the parties.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.732 - Other required written submissions.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.733 - Status conference.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.734 - Specifications as to pleadings, briefs, and other documents; subscription.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.735 - Copies; service; separate filings against multiple defendants.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Formal Complaints > 1.736 - Complaints filed pursuant to 47 U.S.C. 271(d)(6)(B).
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Applications > 1.741 - Scope.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Applications > 1.742 - Place of filing, fees, and number of copies.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Applications > 1.743 - Who may sign applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Applications > 1.744 - Amendments.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Applications > 1.745 - Additional statements.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Applications > 1.746 - Defective applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Applications > 1.747 - Inconsistent or conflicting applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Applications > 1.748 - Dismissal of applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Applications > 1.749 - Action on application under delegated authority.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Specific Types of Applications Under Title II of Communications Act > 1.761 - Cross reference.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Specific Types of Applications Under Title II of Communications Act > 1.763 - Construction, extension, acquisition or operation of lines.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Specific Types of Applications Under Title II of Communications Act > 1.764 - Discontinuance, reduction, or impairment of service.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Specific Types of Applications Under Title II of Communications Act > 1.767 - Cable landing licenses.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Specific Types of Applications Under Title II of Communications Act > 1.768 - Notification by and prior approval for submarine cable landing licensees that are or propose to become affiliated with a foreign carrier.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Tariffs > 1.771 - Filing.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Tariffs > 1.772 - Application for special tariff permission.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Tariffs > 1.773 - Petitions for suspension or rejection of new tariff filings.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Tariffs > 1.774 - Pricing flexibility.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Contracts, Reports, and Requests Required to be Filed by Carriers > 1.781 - Requests for extension of filing time.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Contracts > 1.783 - Filing.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Financial and Accounting Reports and Requests > 1.785 - Annual financial reports.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Financial and Accounting Reports and Requests > 1.786 - [Reserved]
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Financial and Accounting Reports and Requests > 1.787 - Reports of proposed changes in depreciation rates.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Financial and Accounting Reports and Requests > 1.788 - Reports regarding pensions and benefits.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Financial and Accounting Reports and Requests > 1.789 - Reports regarding division of international telegraph communication charges.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Financial and Accounting Reports and Requests > 1.790 - Reports relating to traffic by international carriers.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Financial and Accounting Reports and Requests > 1.791 - Reports and requests to be filed under part 32 of this chapter.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Financial and Accounting Reports and Requests > 1.795 - Reports regarding interstate rates of return.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Services and Facilities Reports > 1.802 - Reports relating to continuing authority to supplement facilities or to provide temporary or emergency service.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Services and Facilities Reports > 1.803 - Reports relating to reduction in temporary experimental service.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Services and Facilities Reports > 1.805 - Reports relating to service by carriers engaged in public radio service operations.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Miscellaneous Reports > 1.811 - Reports regarding amendments to charters, by-laws and partnership agreements of carriers engaged in domestic public radio services.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Miscellaneous Reports > 1.814 - Reports regarding free service rendered the Government for national defense.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Miscellaneous Reports > 1.815 - Reports of annual employment.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Grants by Random Selection > 1.821 - Scope.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Grants by Random Selection > 1.822 - General selection procedures.
+PART 1—PRACTICE AND PROCEDURE > Subpart E—Complaints, Applications, Tariffs, and Reports Involving Common Carriers > Grants by Random Selection > 1.824 - Random selection procedures for Multichannel Multipoint Distribution Service and Multipoint Distribution Service H-Channel stations.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Scope and Authority > 1.901 - Basis and purpose.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Scope and Authority > 1.902 - Scope.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Scope and Authority > 1.903 - Authorization required.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Scope and Authority > 1.907 - Definitions.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.911 - Station files.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.913 - Application and notification forms; electronic and manual filing.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.915 - General application requirements.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.917 - Who may sign applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.919 - Ownership information.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.923 - Content of applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.924 - Quiet zones.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.925 - Waivers.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.926 - Application processing; initial procedures.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.927 - Amendment of applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.928 - Frequency coordination, Canada.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.929 - Classification of filings as major or minor.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.931 - Application for special temporary authority.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.933 - Public notices.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.934 - Defective applications and dismissal.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.935 - Agreements to dismiss applications, amendments or pleadings.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.937 - Repetitious or conflicting applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.939 - Petitions to deny.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.945 - License grants.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.946 - Construction and coverage requirements.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.947 - Modification of licenses.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.948 - Assignment of authorization or transfer of control, notification of consummation.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.949 - Application for renewal of license.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.951 - Duty to respond to official communications.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.955 - Termination of authorizations.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.956 - Settlement conferences.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.957 - Procedure with respect to amateur radio operator license.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.958 - Distance computation.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Application Requirements and Procedures > 1.959 - Computation of average terrain elevation.
+PART 1—PRACTICE AND PROCEDURE > Subpart F—Wireless Radio Services Applications and Proceedings > Reports To Be Filed With the Commission > 1.981 - Reports, annual and semiannual.
+PART 1—PRACTICE AND PROCEDURE > Subpart H—Ex Parte Communications > General > 1.1200 - Introduction.
+PART 1—PRACTICE AND PROCEDURE > Subpart H—Ex Parte Communications > General > 1.1202 - Definitions.
+PART 1—PRACTICE AND PROCEDURE > Subpart H—Ex Parte Communications > Sunshine Period Prohibition > 1.1203 - Sunshine period prohibition.
+PART 1—PRACTICE AND PROCEDURE > Subpart H—Ex Parte Communications > General Exemptions > 1.1204 - Exempt ex parte presentations and proceedings.
+PART 1—PRACTICE AND PROCEDURE > Subpart H—Ex Parte Communications > Non-Restricted Proceedings > 1.1206 - Permit-but-disclose proceedings.
+PART 1—PRACTICE AND PROCEDURE > Subpart H—Ex Parte Communications > Restricted Proceedings > 1.1208 - Restricted proceedings.
+PART 1—PRACTICE AND PROCEDURE > Subpart H—Ex Parte Communications > Prohibition on Solicitation of Presentations > 1.1210 - Prohibition on solicitation of presentations.
+PART 1—PRACTICE AND PROCEDURE > Subpart H—Ex Parte Communications > Procedures for Handling of Prohibited Ex Parte Presentations > 1.1212 - Procedures for handling of prohibited ex parte presentations.
+PART 1—PRACTICE AND PROCEDURE > Subpart H—Ex Parte Communications > Procedures for Handling of Prohibited Ex Parte Presentations > 1.1214 - Disclosure of information concerning violations of this subpart.
+PART 1—PRACTICE AND PROCEDURE > Subpart H—Ex Parte Communications > Sanctions > 1.1216 - Sanctions.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > General Provisions > 1.1501 - Purpose of these rules.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > General Provisions > 1.1502 - When the EAJA applies.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > General Provisions > 1.1503 - Proceedings covered.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > General Provisions > 1.1504 - Eligibility of applicants.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > General Provisions > 1.1505 - Standards for awards.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > General Provisions > 1.1506 - Allowable fees and expenses.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > General Provisions > 1.1507 - Rulemaking on maximum rates for attorney fees.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > General Provisions > 1.1508 - Awards against other agencies.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Information Required From Applicants > 1.1511 - Contents of application.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Information Required From Applicants > 1.1512 - Net worth exhibit.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Information Required From Applicants > 1.1513 - Documentation of fees and expenses.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Information Required From Applicants > 1.1514 - When an application may be filed.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Procedures for Considering Applications > 1.1521 - Filing and service of documents.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Procedures for Considering Applications > 1.1522 - Answer to application.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Procedures for Considering Applications > 1.1523 - Reply.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Procedures for Considering Applications > 1.1524 - Comments by other parties.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Procedures for Considering Applications > 1.1525 - Settlement.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Procedures for Considering Applications > 1.1526 - Further proceedings.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Procedures for Considering Applications > 1.1527 - Decision.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Procedures for Considering Applications > 1.1528 - Commission review.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Procedures for Considering Applications > 1.1529 - Judicial review.
+PART 1—PRACTICE AND PROCEDURE > Subpart K—Implementation of the Equal Access to Justice Act (EAJA) in Agency Proceedings > Procedures for Considering Applications > 1.1530 - Payment of award.
+PART 1—PRACTICE AND PROCEDURE > Subpart L—Random Selection Procedures for Mass Media Services > General Procedures > 1.1601 - Scope.
+PART 1—PRACTICE AND PROCEDURE > Subpart L—Random Selection Procedures for Mass Media Services > General Procedures > 1.1602 - Designation for random selection.
+PART 1—PRACTICE AND PROCEDURE > Subpart L—Random Selection Procedures for Mass Media Services > General Procedures > 1.1603 - Conduct of random selection.
+PART 1—PRACTICE AND PROCEDURE > Subpart L—Random Selection Procedures for Mass Media Services > General Procedures > 1.1604 - Post-selection hearings.
+PART 1—PRACTICE AND PROCEDURE > Subpart L—Random Selection Procedures for Mass Media Services > General Procedures > 1.1621 - Definitions.
+PART 1—PRACTICE AND PROCEDURE > Subpart L—Random Selection Procedures for Mass Media Services > General Procedures > 1.1622 - Preferences.
+PART 1—PRACTICE AND PROCEDURE > Subpart L—Random Selection Procedures for Mass Media Services > General Procedures > 1.1623 - Probability calculation.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions > 1.1901 - Definitions and construction.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions > 1.1902 - Exceptions.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions > 1.1903 - Use of procedures.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions > 1.1904 - Conformance to law and regulations.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions > 1.1905 - Other procedures; collection of forfeiture penalties.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions > 1.1906 - Informal action.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions > 1.1907 - Return of property or collateral.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions > 1.1908 - Omissions not a defense.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions > 1.1909 - [Reserved]
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions > 1.1910 - Effect of insufficient fee payments, delinquent debts, or debarment.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Administrative Offset—Consumer Reporting Agencies—Contracting for Collection > 1.1911 - Demand for payment.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Administrative Offset—Consumer Reporting Agencies—Contracting for Collection > 1.1912 - Collection by administrative offset.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Administrative Offset—Consumer Reporting Agencies—Contracting for Collection > 1.1913 - Administrative offset against amounts payable from Civil Service Retirement and Disability Fund.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Administrative Offset—Consumer Reporting Agencies—Contracting for Collection > 1.1914 - Collection in installments.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Administrative Offset—Consumer Reporting Agencies—Contracting for Collection > 1.1915 - Exploration of compromise.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Administrative Offset—Consumer Reporting Agencies—Contracting for Collection > 1.1916 - Suspending or terminating collection action.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Administrative Offset—Consumer Reporting Agencies—Contracting for Collection > 1.1917 - Referrals to the Department of Justice and transfers of delinquent debt to the Secretary of Treasury.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Administrative Offset—Consumer Reporting Agencies—Contracting for Collection > 1.1918 - Use of consumer reporting agencies.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Administrative Offset—Consumer Reporting Agencies—Contracting for Collection > 1.1919 - Contracting for collection services.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Administrative Offset—Consumer Reporting Agencies—Contracting for Collection > 1.1920-1.1924 - [Reserved]
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1925 - Purpose.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1926 - Scope.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1927 - Notification.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1928 - Hearing.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1929 - Deduction from employee's pay.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1930 - Liquidation from final check or recovery from other payment.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1931 - Non-waiver of rights by payments.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1932 - Refunds.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1933 - Interest, penalties and administrative costs.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1934 - Recovery when the Commission is not creditor agency.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1935 - Obtaining the services of a hearing official.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1936 - Administrative Wage Garnishment.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Salary Offset-Individual Debt > 1.1937-1.1939 - [Reserved]
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Interest, Penalties, Administrative Costs and Other Sanctions > 1.1940 - Assessment.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Interest, Penalties, Administrative Costs and Other Sanctions > 1.1941 - Exemptions.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Interest, Penalties, Administrative Costs and Other Sanctions > 1.1942 - Other sanctions.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Interest, Penalties, Administrative Costs and Other Sanctions > 1.1943-1.1949 - [Reserved]
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Cooperation With the Internal Revenue Service > 1.1950 - Reporting discharged debts to the Internal Revenue Service.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Cooperation With the Internal Revenue Service > 1.1951 - Offset against tax refunds.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > Cooperation With the Internal Revenue Service > 1.1952 - Use and disclosure of mailing addresses.
+PART 1—PRACTICE AND PROCEDURE > Subpart O—Collection of Claims Owed the United States > General Provisions Concerning Interagency Requests > 1.1953 - Interagency requests.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2101 - Purpose.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2102 - Eligibility of applications for competitive bidding.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2103 - Competitive bidding design options.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2104 - Competitive bidding mechanisms.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2105 - Bidding application and certification procedures; prohibition of collusion.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2106 - Submission of upfront payments.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2107 - Submission of down payment and filing of long-form applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2108 - Procedures for filing petitions to deny against long-form applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2109 - License grant, denial, default, and disqualification.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2110 - Designated entities.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2111 - Assignment or transfer of control: unjust enrichment.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2112 - Ownership disclosure requirements for applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2113 - Construction prior to grant of application.
+PART 1—PRACTICE AND PROCEDURE > Subpart Q—Competitive Bidding Proceedings > General Procedures > 1.2114 - Reporting of eligibility event.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > Scope and Authority > 1.9001 - Purpose and scope.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > Scope and Authority > 1.9003 - Definitions.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > Scope and Authority > 1.9005 - Included services.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9010 - De facto control standard for spectrum leasing arrangements.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9020 - Spectrum manager leasing arrangements.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9030 - Long-term de facto transfer leasing arrangements.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9035 - Short-term de facto transfer leasing arrangements.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9040 - Contractual requirements applicable to spectrum leasing arrangements.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9045 - Requirements for spectrum leasing arrangements entered into by licensees participating in the installment payment program.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9047 - Special provisions relating to leases of educational broadband service spectrum.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9048 - Special provisions relating to spectrum leasing arrangements involving licensees in the Public Safety Radio Services.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9050 - Who may sign spectrum leasing notifications and applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9055 - Assignment of file numbers to spectrum leasing notifications and applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9060 - Amendments, waivers, and dismissals affecting spectrum leasing notifications and applications.
+PART 1—PRACTICE AND PROCEDURE > Subpart X—Spectrum Leasing > General Policies and Procedures > 1.9080 - Private commons.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > General Provisions > 2.901 - Basis and purpose.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > General Provisions > 2.902 - Verification.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > General Provisions > 2.906 - Declaration of Conformity.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > General Provisions > 2.907 - Certification.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > General Provisions > 2.908 - Identical defined.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > General Provisions > 2.909 - Responsible party.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Application Procedures for Equipment Authorizations > 2.911 - Written application required.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Application Procedures for Equipment Authorizations > 2.913 - Submittal of equipment authorization application or information to the Commission.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Application Procedures for Equipment Authorizations > 2.915 - Grant of application.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Application Procedures for Equipment Authorizations > 2.917 - Dismissal of application.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Application Procedures for Equipment Authorizations > 2.919 - Denial of application.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Application Procedures for Equipment Authorizations > 2.921 - Hearing on application.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Application Procedures for Equipment Authorizations > 2.923 - Petition for reconsideration; application for review.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Application Procedures for Equipment Authorizations > 2.924 - Marketing of electrically identical equipment having multiple trade names and models or type numbers under the same FCC Identifier.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Application Procedures for Equipment Authorizations > 2.925 - Identification of equipment.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Application Procedures for Equipment Authorizations > 2.926 - FCC identifier.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.927 - Limitations on grants.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.929 - Changes in name, address, ownership or control of grantee.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.931 - Responsibility of the grantee.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.932 - Modification of equipment.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.933 - Change in identification of equipment.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.936 - FCC inspection.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.937 - Equipment defect and/or design change.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.938 - Retention of records.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.939 - Revocation or withdrawal of equipment authorization.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.941 - Availability of information relating to grants.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.943 - Submission of equipment for testing.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.944 - Software defined radios.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.945 - Sampling tests of equipment compliance.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.946 - Penalty for failure to provide test samples and data.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.947 - Measurement procedure.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Conditions Attendant to an Equipment Authorization > 2.948 - Description of measurement facilities.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Verification > 2.951 - Cross reference.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Verification > 2.952 - Limitation on verification.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Verification > 2.953 - Responsibility for compliance.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Verification > 2.954 - Identification.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Verification > 2.955 - Retention of records.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Verification > 2.956 - FCC inspection and submission of equipment for testing.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Telecommunication Certification Bodies (TCBs) > 2.960 - Designation of Telecommunication Certification Bodies (TCBs).
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Telecommunication Certification Bodies (TCBs) > 2.962 - Requirements for Telecommunication Certification Bodies.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1031 - Cross reference.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1033 - Application for certification.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1035 - [Reserved]
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1041 - Measurement procedure.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1043 - Changes in certificated equipment.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1046 - Measurements required: RF power output.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1047 - Measurements required: Modulation characteristics.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1049 - Measurements required: Occupied bandwidth.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1051 - Measurements required: Spurious emissions at antenna terminals.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1053 - Measurements required: Field strength of spurious radiation.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1055 - Measurements required: Frequency stability.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1057 - Frequency spectrum to be investigated.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Certification > 2.1060 - Equipment for use in the amateur radio service.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Declaration of Conformity > 2.1071 - Cross reference.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Declaration of Conformity > 2.1072 - Limitation on Declaration of Conformity.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Declaration of Conformity > 2.1073 - Responsibilities.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Declaration of Conformity > 2.1074 - Identification.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Declaration of Conformity > 2.1075 - Retention of records.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Declaration of Conformity > 2.1076 - FCC inspection and submission of equipment for testing.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Declaration of Conformity > 2.1077 - Compliance information.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Radiofrequency Radiation Exposure > 2.1091 - Radiofrequency radiation exposure evaluation: mobile devices.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart J—Equipment Authorization Procedures > Radiofrequency Radiation Exposure > 2.1093 - Radiofrequency radiation exposure evaluation: portable devices.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart M—Advance Approval of Subscription TV Transmission Systems > Advance Approval Procedure > 2.1400 - Application for advance approval under part 73.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart N—FCC Procedure for Testing Class A, B and S Emergency Position Indicating Radiobeacons (EPIRBs) > General > 2.1501 - Introduction.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart N—FCC Procedure for Testing Class A, B and S Emergency Position Indicating Radiobeacons (EPIRBs) > General > 2.1503 - Test environment.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart N—FCC Procedure for Testing Class A, B and S Emergency Position Indicating Radiobeacons (EPIRBs) > General > 2.1505 - Test instrumentation and equipment.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart N—FCC Procedure for Testing Class A, B and S Emergency Position Indicating Radiobeacons (EPIRBs) > Environmental and Operational Test Procedures > 2.1507 - Test frequencies.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart N—FCC Procedure for Testing Class A, B and S Emergency Position Indicating Radiobeacons (EPIRBs) > Environmental and Operational Test Procedures > 2.1509 - Environmental and duration tests.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart N—FCC Procedure for Testing Class A, B and S Emergency Position Indicating Radiobeacons (EPIRBs) > Environmental and Operational Test Procedures > 2.1511 - Measurements of radiated emissions.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart N—FCC Procedure for Testing Class A, B and S Emergency Position Indicating Radiobeacons (EPIRBs) > Environmental and Operational Test Procedures > 2.1513 - Measurements of modulation characteristics.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart N—FCC Procedure for Testing Class A, B and S Emergency Position Indicating Radiobeacons (EPIRBs) > Environmental and Operational Test Procedures > 2.1515 - Spectral measurements.
+PART 2—FREQUENCY ALLOCATIONS AND RADIO TREATY MATTERS; GENERAL RULES AND REGULATIONS > Subpart N—FCC Procedure for Testing Class A, B and S Emergency Position Indicating Radiobeacons (EPIRBs) > Data Recording/Reporting Requirements > 2.1517 - Data recording/reporting requirements.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > General > 3.1 - Scope, basis, purpose.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > General > 3.2 - Terms and definitions.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Eligibility > 3.10 - Basic qualifications.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Eligibility > 3.11 - Location of settlement operation.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Application Procedures > 3.20 - Application form.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Application Procedures > 3.21 - Order of consideration.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Application Procedures > 3.22 - Number of accounting authority identification codes per applicant.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Application Procedures > 3.23 - Legal applicant.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Application Procedures > 3.24 - Evidence of financial responsibility.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Application Procedures > 3.25 - Number of copies.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Application Procedures > 3.26 - Where application is to be mailed.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Application Procedures > 3.27 - Amended application.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Application Procedures > 3.28 - Denial of privilege.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Application Procedures > 3.29 - Notifications.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.40 - Operational requirements.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.41 - Amount of time allowed before initial settlements.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.42 - Location of processing facility.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.43 - Applicable rules and regulations.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.44 - Time to achieve settlements.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.45 - Amount of charges.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.46 - Use of gold francs.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.47 - Use of SDRs.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.48 - Cooperation with the Commission.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.49 - Agreement to be audited.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.50 - Retention of settlement records.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.51 - Cessation of operations.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.52 - Complaint/inquiry resolution procedures.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.53 - FCC notification of refusal to provide telecommunications service to U.S. registered vessel(s).
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Settlement Operations > 3.54 - Notification of change in address.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Reporting Requirements > 3.60 - Reports.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Reporting Requirements > 3.61 - Reporting address.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Reporting Requirements > 3.62 - Request for confidentiality.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Enforcement > 3.70 - Investigations.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Enforcement > 3.71 - Warnings.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Enforcement > 3.72 - Grounds for further enforcement action.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Enforcement > 3.73 - Waiting period after cancellation.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Enforcement > 3.74 - Ship stations affected by suspension, cancellation or relinquishment.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Enforcement > 3.75 - Licensee's failure to make timely payment.
+PART 3—AUTHORIZATION AND ADMINISTRATION OF ACCOUNTING AUTHORITIES IN MARITIME AND MARITIME MOBILE-SATELLITE RADIO SERVICES > > Enforcement > 3.76 - Licensee's liability for payment.
+PART 4—DISRUPTIONS TO COMMUNICATIONS > > General > 4.1 - Scope, basis and purpose.
+PART 4—DISRUPTIONS TO COMMUNICATIONS > > General > 4.2 - Availability of reports filed under this part.
+PART 4—DISRUPTIONS TO COMMUNICATIONS > > Reporting Requirements for Disruptions to Communications > 4.3 - Communications providers covered by the requirements of this part.
+PART 4—DISRUPTIONS TO COMMUNICATIONS > > Reporting Requirements for Disruptions to Communications > 4.5 - Definitions of outage, special offices and facilities, and 911 special facilities.
+PART 4—DISRUPTIONS TO COMMUNICATIONS > > Reporting Requirements for Disruptions to Communications > 4.7 - Definitions of metrics used to determine the general outage-reporting threshold criteria.
+PART 4—DISRUPTIONS TO COMMUNICATIONS > > Reporting Requirements for Disruptions to Communications > 4.9 - Outage reporting requirements—threshold criteria.
+PART 4—DISRUPTIONS TO COMMUNICATIONS > > Reporting Requirements for Disruptions to Communications > 4.11 - Notification and initial and final communications outage reports that must be filed by communications providers.
+PART 4—DISRUPTIONS TO COMMUNICATIONS > > Reporting Requirements for Disruptions to Communications > 4.13 - Reports by the National Communications System (NCS) and by special offices and facilities, and related responsibilities of communications providers.PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Applications and Notifications > 22.107 - General application requirements.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Applications and Notifications > 22.131 - Procedures for mutually exclusive applications.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Applications and Notifications > 22.143 - Construction prior to grant of application.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Applications and Notifications > 22.150 - Standard pre-filing technical coordination procedure.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Applications and Notifications > 22.165 - Additional transmitters for existing systems.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Applications and Notifications > 22.169 - Internal coordination of channel assignments.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.201 - Paging geographic area authorizations are subject to competitive bidding.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.203-22.211 - [Reserved]
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.213 - Filing of Long-form applications.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.215 - [Reserved]
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.217 - Bidding credits for small businesses.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.221 - Eligibility for partitioned licenses.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.223 - Designated entities.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.225 - Certifications, disclosures, records maintenance, and definitions.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.227 - Petitions to deny and limitations on settlements.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.228 - Cellular rural service area licenses subject to competitive bidding.
+PART 22—PUBLIC MOBILE SERVICES > Subpart B—Licensing Requirements and Procedures > Competitive Bidding Procedures > 22.229 - Designated entities.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Operational Requirements > 22.301 - Station inspection.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Operational Requirements > 22.303 - Retention of station authorizations; identifying transmitters.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Operational Requirements > 22.305 - Operator and maintenance requirements.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Operational Requirements > 22.307 - Operation during emergency.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Operational Requirements > 22.313 - Station identification.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Operational Requirements > 22.317 - Discontinuance of station operation.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Operational Requirements > 22.321 - Equal employment opportunities.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Operational Requirements > 22.325 - Control points.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Technical Requirements > 22.351 - Channel assignment policy.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Technical Requirements > 22.352 - Protection from interference.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Technical Requirements > 22.353 - Blanketing interference.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Technical Requirements > 22.355 - Frequency tolerance.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Technical Requirements > 22.357 - Emission types.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Technical Requirements > 22.359 - Emission limitations.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Technical Requirements > 22.365 - Antenna structures; air navigation safety.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Technical Requirements > 22.371 - Disturbance of AM broadcast station antenna patterns.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Technical Requirements > 22.377 - Certification of transmitters.
+PART 22—PUBLIC MOBILE SERVICES > Subpart C—Operational and Technical Requirements > Technical Requirements > 22.383 - In-building radiation systems.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Paging Operation > 22.531 - Channels for paging operation.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Paging Operation > 22.535 - Effective radiated power limits.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Paging Operation > 22.537 - Technical channel assignment criteria.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Paging Operation > 22.559 - Paging application requirements.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > One-way or Two-way Mobile Operation > 22.561 - Channels for one-way or two-way mobile operation.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > One-way or Two-way Mobile Operation > 22.565 - Transmitting power limits.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > One-way or Two-way Mobile Operation > 22.567 - Technical channel assignment criteria.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > One-way or Two-way Mobile Operation > 22.571 - Responsibility for mobile stations.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > One-way or Two-way Mobile Operation > 22.573 - Use of base transmitters as repeaters.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > One-way or Two-way Mobile Operation > 22.575 - Use of mobile channel for remote control of station functions.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > One-way or Two-way Mobile Operation > 22.579 - Operation of mobile transmitters across U.S.-Canada border.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > One-way or Two-way Mobile Operation > 22.589 - One-way or two-way application requirements.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Point-to-Point Operation > 22.591 - Channels for point-to-point operation.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Point-to-Point Operation > 22.593 - Effective radiated power limits.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Point-to-Point Operation > 22.599 - Assignment of 72-76 MHz channels.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Point-to-Point Operation > 22.601 - Existing microwave stations licensed under this part.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Point-to-Point Operation > 22.602 - Transition of the 2110-2130 and 2160-2180 MHz channels to emerging technologies.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Point-to-Point Operation > 22.603 - 488-494 MHz fixed service in Hawaii.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Point-to-Multipoint Operation > 22.621 - Channels for point-to-multipoint operation.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Point-to-Multipoint Operation > 22.623 - System configuration.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Point-to-Multipoint Operation > 22.625 - Transmitter locations.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > Point-to-Multipoint Operation > 22.627 - Effective radiated power limits.
+
+PART 74—EXPERIMENTAL RADIO, AUXILIARY, SPECIAL BROADCAST AND OTHER PROGRAM DISTRIBUTIONAL SERVICES > Subpart A—Experimental Broadcast Stations > Technical Operation and Operators > 74.161 - Frequency tolerances.
+PART 74—EXPERIMENTAL RADIO, AUXILIARY, SPECIAL BROADCAST AND OTHER PROGRAM DISTRIBUTIONAL SERVICES > Subpart A—Experimental Broadcast Stations > Technical Operation and Operators > 74.162 - Frequency monitors and measurements.
+PART 74—EXPERIMENTAL RADIO, AUXILIARY, SPECIAL BROADCAST AND OTHER PROGRAM DISTRIBUTIONAL SERVICES > Subpart A—Experimental Broadcast Stations > Technical Operation and Operators > 74.163 - Time of operation.
+PART 74—EXPERIMENTAL RADIO, AUXILIARY, SPECIAL BROADCAST AND OTHER PROGRAM DISTRIBUTIONAL SERVICES > Subpart A—Experimental Broadcast Stations > Technical Operation and Operators > 74.165 - Posting of station license.
+PART 74—EXPERIMENTAL RADIO, AUXILIARY, SPECIAL BROADCAST AND OTHER PROGRAM DISTRIBUTIONAL SERVICES > Subpart A—Experimental Broadcast Stations > Technical Operation and Operators > 74.181 - Station records.
+PART 74—EXPERIMENTAL RADIO, AUXILIARY, SPECIAL BROADCAST AND OTHER PROGRAM DISTRIBUTIONAL SERVICES > Subpart A—Experimental Broadcast Stations > Technical Operation and Operators > 74.182 - Program service and charges.
+PART 74—EXPERIMENTAL RADIO, AUXILIARY, SPECIAL BROADCAST AND OTHER PROGRAM DISTRIBUTIONAL SERVICES > Subpart A—Experimental Broadcast Stations > Technical Operation and Operators > 74.183 - Station identification.
+PART 74—EXPERIMENTAL RADIO, AUXILIARY, SPECIAL BROADCAST AND OTHER PROGRAM DISTRIBUTIONAL SERVICES > Subpart A—Experimental Broadcast Stations > Technical Operation and Operators > 74.184 - Rebroadcasts.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > 470-512 MHz Trunked Mobile Operation > 22.651 - 470-512 MHz channels for trunked mobile operation.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > 470-512 MHz Trunked Mobile Operation > 22.653 - Eligibility.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > 470-512 MHz Trunked Mobile Operation > 22.657 - Transmitter locations.
+PART 22—PUBLIC MOBILE SERVICES > Subpart E—Paging and Radiotelephone Service > 470-512 MHz Trunked Mobile Operation > 22.659 - Effective radiated power limits.
+PART 22—PUBLIC MOBILE SERVICES > Subpart F—Rural Radiotelephone Service > Conventional Rural Radiotelephone Stations > 22.721 - Geographic area authorizations.
+PART 22—PUBLIC MOBILE SERVICES > Subpart F—Rural Radiotelephone Service > Conventional Rural Radiotelephone Stations > 22.723 - Secondary site-by-site authorizations.
+PART 22—PUBLIC MOBILE SERVICES > Subpart F—Rural Radiotelephone Service > Conventional Rural Radiotelephone Stations > 22.725 - Channels for conventional rural radiotelephone stations and basic exchange telephone radio systems.
+PART 22—PUBLIC MOBILE SERVICES > Subpart F—Rural Radiotelephone Service > Conventional Rural Radiotelephone Stations > 22.727 - Power limits for conventional rural radiotelephone transmitters.
+PART 22—PUBLIC MOBILE SERVICES > Subpart F—Rural Radiotelephone Service > Conventional Rural Radiotelephone Stations > 22.731 - Emission limitations.
+PART 22—PUBLIC MOBILE SERVICES > Subpart F—Rural Radiotelephone Service > Conventional Rural Radiotelephone Stations > 22.733 - Priority of service.
+PART 22—PUBLIC MOBILE SERVICES > Subpart F—Rural Radiotelephone Service > Conventional Rural Radiotelephone Stations > 22.737 - Temporary fixed stations.
+PART 22—PUBLIC MOBILE SERVICES > Subpart F—Rural Radiotelephone Service > Basic Exchange Telephone Radio Systems > 22.757 - Channels for basic exchange telephone radio systems.
+PART 22—PUBLIC MOBILE SERVICES > Subpart F—Rural Radiotelephone Service > Basic Exchange Telephone Radio Systems > 22.759 - Power limit for BETRS.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > General Aviation Air-Ground Stations > 22.805 - Channels for general aviation air-ground service.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > General Aviation Air-Ground Stations > 22.807 - General aviation air-ground station application requirements.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > General Aviation Air-Ground Stations > 22.809 - Transmitting power limits.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > General Aviation Air-Ground Stations > 22.813 - Technical channel pair assignment criteria.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > General Aviation Air-Ground Stations > 22.815 - Construction period for general aviation ground stations.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > General Aviation Air-Ground Stations > 22.817 - Additional channel policies.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.853 - Eligibility to hold interest in licenses limited to 3 MHz of spectrum.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.857 - Frequency bands.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.859 - Incumbent commercial aviation air-ground systems.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.861 - Emission limitations.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.863 - Frequency stability.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.867 - Effective radiated power limits.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.873 - Construction requirements for commercial aviation air-ground systems.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.877 - Unacceptable interference to part 90 non-cellular 800 MHz licensees from commercial aviation air-ground systems.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.878 - Obligation to abate unacceptable interference.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.879 - Interference resolution procedures.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.880 - Information exchange.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.881 - Air-Ground Radiotelephone Service subject to competitive bidding.
+PART 22—PUBLIC MOBILE SERVICES > Subpart G—Air-Ground Radiotelephone Service > Commercial Aviation Air-Ground Systems > 22.882 - Designated entities.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart B—Applications and Licenses > General Filing Requirements > 24.10 - Scope.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart B—Applications and Licenses > General Filing Requirements > 24.11 - Initial authorization.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart B—Applications and Licenses > General Filing Requirements > 24.12 - Eligibility.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart B—Applications and Licenses > General Filing Requirements > 24.15 - License period.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart B—Applications and Licenses > General Filing Requirements > 24.16 - Criteria for comparative renewal proceedings.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart E—Broadband PCS > Policies Governing Microwave Relocation From the 1850-1990 MHz Band > 24.239 - Cost-sharing requirements for broadband PCS.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart E—Broadband PCS > Policies Governing Microwave Relocation From the 1850-1990 MHz Band > 24.241 - Administration of the Cost-Sharing Plan.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart E—Broadband PCS > Policies Governing Microwave Relocation From the 1850-1990 MHz Band > 24.243 - The cost-sharing formula.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart E—Broadband PCS > Policies Governing Microwave Relocation From the 1850-1990 MHz Band > 24.245 - Reimbursement under the Cost-Sharing Plan.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart E—Broadband PCS > Policies Governing Microwave Relocation From the 1850-1990 MHz Band > 24.247 - Triggering a reimbursement obligation.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart E—Broadband PCS > Policies Governing Microwave Relocation From the 1850-1990 MHz Band > 24.249 - Payment issues.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart E—Broadband PCS > Policies Governing Microwave Relocation From the 1850-1990 MHz Band > 24.251 - Dispute resolution under the Cost-Sharing Plan.
+PART 24—PERSONAL COMMUNICATIONS SERVICES > Subpart E—Broadband PCS > Policies Governing Microwave Relocation From the 1850-1990 MHz Band > 24.253 - Termination of cost-sharing obligations.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.110 - Filing of applications, fees, and number of copies.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.111 - Additional information.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.112 - Defective applications.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.113 - Station licenses and launch authority.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.114 - Applications for space station authorizations.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.115 - Application for earth station authorizations.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.116 - Amendments to applications.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.117 - Modification of station license.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.118 - Modifications not requiring prior authorization.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.119 - Assignment or transfer of control of station authorization.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.120 - Application for special temporary authorization.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.121 - License term and renewals.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > General Application Filing Requirements > 25.129 - Equipment authorization for portable earth-station transceivers.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Earth Stations > 25.130 - Filing requirements for transmitting earth stations.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Earth Stations > 25.131 - Filing requirements for receive-only earth stations.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Earth Stations > 25.132 - Verification of earth station antenna performance standards.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Earth Stations > 25.133 - Period of construction; certification of commencement of operation.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Earth Stations > 25.134 - Licensing provisions of Very Small Aperture Terminal (VSAT) and C-band Small Aperture Terminal (CSAT) networks.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Earth Stations > 25.135 - Licensing provisions for earth station networks in the non-voice, non-geostationary mobile-satellite service.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Earth Stations > 25.136 - Licensing provisions for user transceivers in the 1.6/2.4 GHz, 1.5/1.6 GHz, and 2 GHz Mobile Satellite Services.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Earth Stations > 25.137 - Application requirements for earth stations operating with non-U.S. licensed space stations.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Earth Stations > 25.138 - Blanket licensing provisions of GSO FSS Earth Stations in the 18.3-18.8 GHz (space-to-Earth), 19.7-20.2 GHz (space-to-Earth), 28.35-28.6 GHz (Earth-to-space) and 29.25-30.0 GHz (Earth-to-space) bands.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Earth Stations > 25.139 - NGSO FSS coordination and information sharing between MVDDS licensees in the 12.2 GHz to 12.7 GHz band.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Space Stations > 25.140 - Qualifications of fixed-satellite space station licensees.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Space Stations > 25.142 - Licensing provisions for the non-voice, non-geostationary mobile-satellite service.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Space Stations > 25.143 - Licensing provisions for the 1.6/2.4 GHz mobile-satellite service and 2 GHz mobile-satellite service.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Space Stations > 25.144 - Licensing provisions for the 2.3 GHz satellite digital audio radio service.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Space Stations > 25.145 - Licensing conditions for the Fixed-Satellite Service in the 20/30 GHz bands.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Space Stations > 25.146 - Licensing and operating authorization provisions for the non-geostationary satellite orbit fixed-satellite service (NGSO FSS) in the bands 10.7 GHz to 14.5 GHz.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Space Stations > 25.147 - Licensing provision for NGSO MSS feeder downlinks in the band 6700-6875 MHz.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Space Stations > 25.148 - Licensing provisions for the Direct Broadcast Satellite Service.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Space Stations > 25.149 - Application requirements for ancillary terrestrial components in the mobile-satellite service networks operating in the 1.5./1.6 GHz, 1.6/2.4 GHz and 2 GHz mobile-satellite service.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Processing of Applications > 25.150 - Receipt of applications.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Processing of Applications > 25.151 - Public notice period.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Processing of Applications > 25.152 - Dismissal and return of applications.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Processing of Applications > 25.153 - Repetitious applications.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Processing of Applications > 25.154 - Opposition to applications and other pleadings.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Processing of Applications > 25.155 - Mutually exclusive applications.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Processing of Applications > 25.156 - Consideration of applications.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Processing of Applications > 25.157 - Consideration of NGSO-like satellite applications.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Processing of Applications > 25.158 - Consideration of GSO-like satellite applications.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Processing of Applications > 25.159 - Limits on pending applications and unbuilt satellite systems.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Forfeiture, Termination, and Reinstatement of Station Authorization > 25.160 - Administrative sanctions.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Forfeiture, Termination, and Reinstatement of Station Authorization > 25.161 - Automatic termination of station authorization.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Forfeiture, Termination, and Reinstatement of Station Authorization > 25.162 - Cause for termination of interference protection.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Forfeiture, Termination, and Reinstatement of Station Authorization > 25.163 - Reinstatement.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Forfeiture, Termination, and Reinstatement of Station Authorization > 25.164 - Milestones.
+PART 25—SATELLITE COMMUNICATIONS > Subpart B—Applications and Licenses > Forfeiture, Termination, and Reinstatement of Station Authorization > 25.165 - Posting of bonds.
