@@ -1,4 +1,5 @@
- # .gitignore file
+# apple
+.DS_Store
 
- # Mac files
- .DS_Store
+# Vagrant
+**/.vagrant/
